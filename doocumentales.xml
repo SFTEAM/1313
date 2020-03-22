@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[DOCUMENTALES]]></playlist_name>
+
+<channel>       
+<title><![CDATA[El hombre y la tierra ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/hombretierra.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/HMStream.xml]]></prev_page_url>
+
+</items>
