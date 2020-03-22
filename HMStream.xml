@@ -18,7 +18,7 @@
 <title><![CDATA[SALA DE PELICULAS DE ESTRENO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://i.ytimg.com/vi/49VrCLM3d40/maxresdefault.jpg">Aqui encontraras estrenos de cartelera en varias calidades. Recuerda que no siempre se veran con buena calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/estrenos/pelisestrenos.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelisestreno.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
