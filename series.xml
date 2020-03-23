@@ -34,7 +34,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  
+<channel>       
+<title><![CDATA[Dolunay ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/dolunay.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
   
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/HMStream.xml]]></prev_page_url>
