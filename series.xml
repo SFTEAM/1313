@@ -90,7 +90,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>     
   
-  
+<channel>       
+<title><![CDATA[Señoras del ampa T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/senoras_del_h_ampa_tv_series-129182990-large.jpg>" ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/hampa.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>    
   
   
   
