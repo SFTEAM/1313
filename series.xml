@@ -26,7 +26,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-  
+<channel>       
+<title><![CDATA[Al salir de clase ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/salirclase.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
   
   
