@@ -12,14 +12,89 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+ <channel> 
+<title><![CDATA[Luz 2019]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/14XhPx337J2qoJ7UiiDXVX4Lgph.jpg" />]]> </description> 
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/D3nnXqOnE3d.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+ <channel> 
+<title><![CDATA[Obsesion 2019]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg" />]]> </description> 
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/lX1dLgmgYx3.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+ 
+ <channel> 
+<title><![CDATA[Obsesion 2019]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg" />]]> </description> 
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/lX1dLgmgYx3.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>    
 
+ <channel> 
+<title><![CDATA[Star Wars: El ascenso de Skywalker 2019]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/16G2wZAkmKqSGK3it2VPjco5oyn.jpg" />]]> </description> 
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/JLmDoxKEx58.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>     
  
+ <channel>
+<title><![CDATA[La gran mentira 2019]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_good_liar-885640435-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://s29.cdncv.net/hls/mfqjsououxo6sr7qw4ae3jal4zgcdbnhpn4vucpghpurmvetuezv3v5oguwa/index-v1-a1.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
+ <channel>
+<title><![CDATA[1917  2019]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aqr1jDwGb1IfAB6Lh1fNx7AbEZE.jpg" />]]></description>
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/v8PYPN4Bd1D.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
  
+ <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
  
+ <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
  
+ <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
  
- 
+ <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelis2019.xml]]></prev_page_url> 
