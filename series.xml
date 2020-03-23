@@ -74,8 +74,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>   
   
-  
-  
+  <channel>       
+<title><![CDATA[Aida T1-9]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/aida_tv_series-969726628-mmed.jpg>" ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/aida.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>     
   
   
   
