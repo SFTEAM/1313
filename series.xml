@@ -5,7 +5,7 @@
 <channel>       
 <title><![CDATA[La verdad ]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg"> ]]></description>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_verdad_tv_series-368426574-large.jpg"> ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/laverdad.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -13,11 +13,24 @@
 <channel>       
 <title><![CDATA[Chiringuito pepe ]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg"> ]]></description>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/chiringuito_de_pepe_tv_series-407869270-large.jpg"> ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/pepe.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>       
+<title><![CDATA[La valla ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/lavalla.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+  
+  
+  
+  
+  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/HMStream.xml]]></prev_page_url>
 
 </items>
