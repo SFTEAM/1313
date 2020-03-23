@@ -8,7 +8,7 @@
 <title><![CDATA[jumanji 2020]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7TQltbhyV4aYQph7HL62jCy2pD.jpg" />]]> </description> 
-<stream_url><![CDATA[https://e27.cdncv.net/hls/mfqjrdzeuxo6sr7qw4ee3pqe7nevlhz22hpjtmpxovv4pqc4acj3vt6bhd4a/index-v1-a1.m3u8]]></stream_url>
+<stream_url><![CDATA[https://player.openloadpremium.com/m3u8/index_MTIzNg.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
