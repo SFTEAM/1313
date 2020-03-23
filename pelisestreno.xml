@@ -14,7 +14,28 @@
 </channel>
  
  
-   
+ <channel> 
+<title><![CDATA[El banquero 2020]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mAcCwIbaIR4YcK0K1SPFQKEoanA.jpg" />]]> </description> 
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/ryneBVdlKzV.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+ 
+ <channel> 
+<title><![CDATA[Si yo fuera rico 2019]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mAcCwIbaIR4YcK0K1SPFQKEoanA.jpg" />]]> </description> 
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/vyEJvVGOADm.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
+ 
+ 
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelisestrenos.xml]]></prev_page_url> 
 </items>
