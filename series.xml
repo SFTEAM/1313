@@ -82,6 +82,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>     
   
+<channel>       
+<title><![CDATA[Los nuestros]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/2yaw2cpm3nlb_losnuestros_t2_3.jpg>" ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/nuestros.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>     
+  
+  
+  
+  
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
