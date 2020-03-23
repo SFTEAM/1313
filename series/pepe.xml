@@ -208,6 +208,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+  <channel>
+<title><![CDATA[PRUEBA2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn.carbyne.ps.ooyala.com/mediaset/images/production/1_S002_E016_chiringuito-de-pepe-temporada-2-capitulo-26_12_thumbnail_b7fc36a0b53f6844b9b91021301c7aff.jpg" />El crнtico de Michelin estб a punto de visitar el chiringuito y gracias a un accidente de Pepe en las redes sociales, Sergi se ve obligado a cambiar su concepto gastronуmico en el ъltimo momento. Pepe, arrepentido, decide jubilarse para evitar meter la pata en un dнa tan importante]]></description>
+<stream_url><![CDATA[https://r2---sn-h5q7knes.googlevideo.com/videoplayback?expire=1584950274&ei=ohd4XqicG-egxN8P_paCkAQ&ip=81.47.65.241&id=o-AD8ziZpwB-jS3IejkDBKwLmF1XIcLKy3pmi-CFMtljfF&itag=135&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278%2C394%2C395%2C396%2C397&source=youtube&requiressl=yes&mh=oC&mm=31%2C29&mn=sn-h5q7knes%2Csn-h5q7dnlk&ms=au%2Crdu&mv=m&mvi=1&pl=16&gcr=es&initcwndbps=937500&vprv=1&mime=video%2Fmp4&gir=yes&clen=184806172&dur=6727.640&lmt=1584581970878242&mt=1584928601&fvip=6&keepalive=yes&fexp=23882514&c=WEB&txp=5532432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ABSNjpQwRQIgLxuE6QHemhv4mfVqLkenfTow_CtQIB0Mrw860poW5agCIQCbcWvQXpfNrj9d35ayctVx48PGZMF3kLRBuwE06nlp1g%3D%3D&sig=ADKhkGMwRAIgWG5EjVxNCyfvTFAu_QYK0c5JQ6TtnKn1ed5XXN-gxqACIBpvKT_2RU1RFJ9sYN-UPnsyRWtgSWxYqsJrISF6ygBv]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH -ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series.xml]]></prev_page_url>
  
