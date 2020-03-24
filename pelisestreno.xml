@@ -27,7 +27,7 @@
 <title><![CDATA[Toy Story 4]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/61hlB1D6t1Ctbjk1YtW8V0Ij21Y.jpg" />]]> </description> 
-<stream_url><![CDATA[https://player.openloadpremium.com/m3u8/index_NDc5.m3u8]]></stream_url>
+<stream_url><![CDATA[sftp://root@51.79.19.192/home/xtreamcodes/iptv_xtream_codes/wwwdir/VOD/ESTRENOS/GUNS%20AKIMBO.avi]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
