@@ -2,53 +2,6 @@
 <items>
  <playlist_name>PELICULAS >> TVE1</playlist_name>
  
-<!--channel>
-<title><![CDATA[]]></title>
-<logo><![CDATA[]]></logo>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo><![CDATA[]]></logo>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo><![CDATA[]]></logo>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo><![CDATA[]]></logo>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo><![CDATA[]]></logo>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo><![CDATA[]]></logo>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel-->
 
 <channel>
 <title><![CDATA[La noche que mi madre mató a mi padre (2016) ]]></title>
