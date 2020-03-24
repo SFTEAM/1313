@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name>PELICULAS >> TVE1</playlist_name>
+ <playlist_name>PELICULAS TVE1</playlist_name>
  
 
 <channel>
@@ -9930,6 +9930,6 @@ Un comando mercenario es contratado para deshacer la organizacion. El final pued
 </channel>
 
 
-<prev_page_url text="Volver"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/mitele.xml]></prev_page_url>
+<prev_page_url text="Volver"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/mitele.xml]]></prev_page_url>
 
 </items>
