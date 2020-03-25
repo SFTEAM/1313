@@ -41,6 +41,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel> 
+<title><![CDATA[Aves de presa]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/birds_of_prey_and_the_fantabulous_emancipation_of_one_harley_quinn-326135821-mmed.jpg" />]]> </description> 
+<stream_url><![CDATA[https://10-81.s.cdn15.com/cr/71940/132972/320732_8dd46.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  
  
