@@ -62,7 +62,16 @@
 <description><![CDATA[<img src="https://pics.filmaffinity.com/joker-790658206-mmed.jpg" />]]></description>
 <stream_url><![CDATA[https://s20.cdncv.net/hls/mfqjsn5huho6sr7qw7iez7qu7pzxtj3wrmpqaogi5kg773fw6yyrlaz7e5ea/index-v1-a1.m3u8]]></stream_url>
 <buffer_kb>30000</buffer_kb>
-</channel>  
+</channel>
+ 
+ <channel> 
+<title><![CDATA[Terminator: Destino Oscuro]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/terminator_dark_fate-389391587-mmed.jpg" />]]> </description> 
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/XND1qpmRBe7-storage.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  <channel>
 <title><![CDATA[]]></title>
