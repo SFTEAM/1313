@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[PELIS CLASICAS]]></playlist_name>
+  
+  <channel>       
+<title><![CDATA[El Pueblo T2 ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/el_pueblo_tv_series-513241826-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/pueb2]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>       
+<title><![CDATA[La verdad T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_verdad_tv_series-368426574-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/laverdad.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>       
+<title><![CDATA[Chiringuito pepe T1-2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/chiringuito_de_pepe_tv_series-407869270-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/pepe.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>       
+<title><![CDATA[La valla T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/lavalla.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>       
+<title><![CDATA[Al salir de clase ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/salirclase.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>       
+<title><![CDATA[Dolunay T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/dolunay.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[Erkencikus T1-2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/erkencikus.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[La rabia T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_valla_tv_series-283039398-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/rabia.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  <channel>       
+<title><![CDATA[La que se avecina T1-11]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_que_se_avecina_tv_series-519161907-mmed.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/laqueseavecina.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+  
+  <channel>       
+<title><![CDATA[Aida T1-9]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/aida_tv_series-969726628-mmed.jpg>" ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/aida.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>     
+  
+<channel>       
+<title><![CDATA[Los nuestros]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/2yaw2cpm3nlb_losnuestros_t2_3.jpg>" ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/nuestros.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>     
+  
+<channel>       
+<title><![CDATA[Señoras del ampa T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/senoras_del_h_ampa_tv_series-129182990-large.jpg>" ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/hampa.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>    
+  
+  
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelisclasicas.xml]]></prev_page_url>
+
+</items>
