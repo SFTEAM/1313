@@ -35,6 +35,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+  <channel>
+<title><![CDATA[Don erre que erre]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/don_erre_que_erre-874696161-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://ia601401.us.archive.org/11/items/erre_20200326/Don.erre.que.erre.%5BDVDR%5D%5BEsp%5D%5Bwww.moviesDVDR.com%5D.avi]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
   
   
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
