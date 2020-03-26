@@ -3,10 +3,10 @@
 <playlist_name><![CDATA[PELIS CLASICAS]]></playlist_name>
   
  <channel>
-<title><![CDATA[]]></title>
+<title><![CDATA[prueba]]></title>
 <logo><![CDATA[]]></logo>
 <description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://hv20ue.svid.li/hls/dnzptkp4zlg4a3gyvdoh7mjttbrkfp4jrlvzfvfakqzxpfpuzks6lm4fnefa/index-v1-a1.m3u8]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
 
