@@ -18,6 +18,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>    
   
+<channel>
+<title><![CDATA[Comando patos salvajes]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="hhttp://www.online.tucineclasico.es/wp-content/uploads/2019/10/hfi842MibBsKYbhzu1YlTSdizPF-185x278.jpg" />]]></description>
+<stream_url><![CDATA[https://84gh2d.svid.li/hls/dnzpfjk4zdg4a3gyvdhh7itvsbhm5gq35ufqkj6lf6t4u5jzxai6ukhbjkra/index-v1-a1.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>    
+  
   
   
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
