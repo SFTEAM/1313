@@ -28,7 +28,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelis2019.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-    
+ 
+   <channel>       
+<title><![CDATA[PELICULAS CLASICAS ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://playerslink.la/wp-content/uploads/2015/07/triple-x-tycoon-game-900x444.jpg">Aqui encotraras tus programas de tv]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelisclasicas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
 <channel>       
 <title><![CDATA[PELICULAS TVE ]]></title>
 <logo_30x30></logo_30x30>
