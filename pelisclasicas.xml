@@ -2,7 +2,13 @@
 <items>
 <playlist_name><![CDATA[PELIS CLASICAS]]></playlist_name>
   
-
+ <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
 
 
   
