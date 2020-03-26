@@ -10,8 +10,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
 
-
-  
+<channel>
+<title><![CDATA[Casper]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/casper_tv_series-519494262-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://8k76ys.svid.li/hls/dnzpe42nzdg4a3gyvdhx7pdrrnfqxvle622peth7mih37khuqcxk4vzgodcq/index-v1-a1.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>    
   
   
   
