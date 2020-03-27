@@ -3,10 +3,10 @@
 <playlist_name><![CDATA[PELIS 2018]]></playlist_name>
   
  <channel>
-<title><![CDATA[]]></title>
+<title><![CDATA[La Dama y el Vagabundo]]></title>
 <logo><![CDATA[]]></logo>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/lady_and_the_tramp-469306482-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://storage.googleapis.com/emerald-entity-265717.appspot.com/tt8096832_LAT_HD.mp4#validoDesde:1585302591]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
 
