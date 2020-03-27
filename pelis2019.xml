@@ -99,6 +99,14 @@
 </channel>
  
    <channel>
+<title><![CDATA[Frozen II]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/frozen_ii-725228283-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://stream-4991-212-110.pvdcdn.co/jqohpj5oeyikkfn2md776mylfv2e3n4wfchdne7az7b5w5nyqt4gxamyxa/v.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
 <title><![CDATA[]]></title>
 <logo><![CDATA[]]></logo>
 <description><![CDATA[<img src="" />]]></description>
@@ -106,7 +114,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-   <channel>
+    <channel>
 <title><![CDATA[]]></title>
 <logo><![CDATA[]]></logo>
 <description><![CDATA[<img src="" />]]></description>
