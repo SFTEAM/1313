@@ -123,5 +123,5 @@
 </channel>
  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelis2019.xml]]></prev_page_url> 
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/HMStream.xml]]></prev_page_url> 
 </items>
