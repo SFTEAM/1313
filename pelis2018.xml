@@ -9,7 +9,31 @@
 <description><![CDATA[<img src="" />]]></description>
 <stream_url><![CDATA[]]></stream_url>
 <buffer_kb>30000</buffer_kb>
-</channel>  
+</channel>
+  
+  <channel>
+<title><![CDATA[La caída del Imperio Americano]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_chute_de_l_empire_americain-285682128-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://www.pelispedia.biz/pelicula/la-caida-del-imperio-americano/]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
   
   
