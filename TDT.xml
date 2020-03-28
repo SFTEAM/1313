@@ -3,10 +3,10 @@
 <playlist_name><![CDATA[TDT Online]]></playlist_name>
   
  <channel>
-<title><![CDATA[La 1 prueba]]></title>
+<title><![CDATA[La 6 prueba]]></title>
 <logo><![CDATA[]]></logo>
 <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpgg" />]]></description>
-<stream_url><![CDATA[https%3a//rtvelivestream.akamaized.net/la1_dvr.m3u8]]></stream_url>
+<stream_url><![CDATA[https://livestartover.atresmedia.com/geolasexta/master.m3u8]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
 
