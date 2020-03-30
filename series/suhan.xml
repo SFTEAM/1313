@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[PELIS 2018]]></playlist_name>
+  
+ <channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+
+<channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+
+<channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+
+<channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+
+<channel>
+<title><![CDATA[]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/pelis2018.xml]]></prev_page_url>
+
+</items>
