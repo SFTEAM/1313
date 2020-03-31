@@ -115,6 +115,14 @@
 </channel>
  
     <channel>
+<title><![CDATA[Jugando Con Fuego]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/playing_with_fire-731390704-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://s-delivery5.mxdcontent.net/v/d9e62ad5778f0c914de7805a64a7d46c.mp4?s=EIdjPRRVoLyjpwHdcwwavQ&e=1585668621]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+    <channel>
 <title><![CDATA[]]></title>
 <logo><![CDATA[]]></logo>
 <description><![CDATA[<img src="" />]]></description>
@@ -129,6 +137,8 @@
 <stream_url><![CDATA[]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+
  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/HMStream.xml]]></prev_page_url> 
