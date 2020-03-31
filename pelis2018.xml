@@ -10,6 +10,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
+    <channel>
+<title><![CDATA[Attrition]]></title>
+<logo><![CDATA[]]></logo>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/attrition-199419532-mmed.jpg" />]]></description>
+<stream_url><![CDATA[https://storage.googleapis.com/iron-fountain-266419.appspot.com/6y1DR3R91Jl.mp4#validoDesde:1585644903]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
   
   
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
