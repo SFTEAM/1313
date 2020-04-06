@@ -3,6 +3,15 @@
 <playlist_name><![CDATA[SERIES]]></playlist_name>
   
   <channel>       
+<title><![CDATA[Amor ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/el_pueblo_tv_series-513241826-large.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/series/amor.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+ 
+  <channel>       
 <title><![CDATA[El Pueblo T2 ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/el_pueblo_tv_series-513241826-large.jpg"> ]]></description>
