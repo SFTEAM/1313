@@ -2,14 +2,7 @@
 <items>
 <playlist_name><![CDATA[Videoclub Archivostvteam]]></playlist_name>
   
-  <channel>       
-<title><![CDATA[Ca.Papel T4 ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/093f261a29f8f44f3f8a162e3b58e628.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/papel.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
+
 
 <channel>       
 <title><![CDATA[SALA DE SERIES ]]></title>
@@ -94,13 +87,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-<channel>       
-<title><![CDATA[TDT ONLINE ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://playerslink.la/wp-content/uploads/2015/07/triple-x-tycoon-game-900x444.jpg">Aqui encotraras tus programas de tv]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/1313/master/TDT.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>  
+ 
   
   
   
