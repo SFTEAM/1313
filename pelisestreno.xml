@@ -4,14 +4,6 @@
  
  
  
-   <channel> 
-<title><![CDATA[DISCOVERY TURBO]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7TQltbhyV4aYQph7HL62jCy2pD.jpg" />]]> </description> 
-<stream_url><![CDATA[http://estudiar.ddns.net:9821/live/caravana/caravana/19.ts]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
  <channel> 
